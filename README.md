@@ -34,15 +34,11 @@ For your convenience, we provide the following link:
 
 - [Dataset download link for IEEEDataPort](xxx)
 
-The verification code for Baidu Netdisk is```tvwa ```
 
 
 ## Running the Code:
-If you want to run our code, please first modify lines 31 and 32 of \model\mddformer.py,Set the save path for your own log and model files.
+In the code section, we have disclosed the relevant codes for four types of machine learning and four types of deep learning (add&concat). If you want to run the corresponding code, please refer to the following steps.
 
-Then, you should modify lines 282 to 284 and follow the prompts to modify the corresponding path.
-
-After completing the above modifications, you can execute the following code to run our project:
 
 `
 python model/mddformer.py 
