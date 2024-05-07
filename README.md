@@ -44,9 +44,9 @@ In the code section, we have disclosed the relevant codes for four types of mach
 
   After you have modified all the code,run this code:
 
-    `
+`
     python model/ML/machinekfold.py
-    `
+`
 
  - Deep Learning
   For the code of deep learning, we will only take BiLSTM as an example,As with the previous operation, you only need to make simple modifications to the relevant parts in BILSTmfold.py in the model/BiLSTM/directory. If you want to switch between add and concat, you can modify the comments in BILSTMmodel.py.
